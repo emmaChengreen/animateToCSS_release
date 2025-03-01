@@ -1,0 +1,6 @@
+node_modules/
+release.js
+.DS_Store
+package-lock.json
+package.json
+.gitignore

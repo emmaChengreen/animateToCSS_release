@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "releaseDate": "2025-03-01",
+  "download": {
+    "github": "https://github.com/emmaChengreen/animateToCSS_release/releases/latest"
+  },
+  "changelog": {
+    "zh": [
+      "1.0.1 版本发布"
+    ],
+    "en": [
+      "Version 1.0.1 released"
+    ]
+  }
+}
